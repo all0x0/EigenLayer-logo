@@ -1,7 +1,7 @@
 {
-  "name": "uint6",
-  "website": "https://github.com/uint6x",
-  "description": "Learning blockchain",
-  "logo": "https://ftmscan.com/token/images/USDC_32.png",
-  "twitter": "https://twitter.com/uint6x"
+  "name": "Rocket Pool",
+  "website": "https://rocketpool.net/",
+  "description": "Rocket Pool is the leading decentralised liquid staking protocol for Ethereum",
+  "logo": "https://raw.githubusercontent.com/sicongxu/eigen/main/rocketpool1.png",
+  "twitter": "https://twitter.com/Rocket_Pool"
 }
